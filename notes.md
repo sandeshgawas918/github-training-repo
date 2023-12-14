@@ -28,3 +28,4 @@ Steps
 
 8. git restore .
 
+9. git rm <filename>
