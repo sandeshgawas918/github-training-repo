@@ -41,4 +41,6 @@ Steps
 
 14. git branch -d <branch name>
 
-15. 
+*******GITHUB*********
+
+1. git remote add origin <repo name> 
