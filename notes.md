@@ -1,5 +1,6 @@
 Steps
 1. git config
+    git config --global user.name "FIRST_NAME LAST_NAME"
 
 2. git add . / git add <filename>
 
