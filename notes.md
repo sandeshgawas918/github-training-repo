@@ -34,4 +34,11 @@ Steps
 
 11. git log / git log --oneline
 
-12. 
+12. git branch
+    git switch -c <new branch>
+
+13. git merge <branch name> 
+
+14. git branch -d <branch name>
+
+15. 
