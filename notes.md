@@ -29,3 +29,9 @@ Steps
 8. git restore .
 
 9. git rm <filename>
+
+10. git diff
+
+11. git log / git log --oneline
+
+12. 
