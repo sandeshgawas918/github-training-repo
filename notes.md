@@ -67,7 +67,21 @@ Steps
 
 8. git branch -a **this shows all the present branch**
 
-9. 
+9. git pull
+    There is no tracking information for the current branch.
+    Please specify which branch you want to merge with.
+    See git-pull(1) for details.
+
+        git pull <remote> <branch>
+
+    If you wish to set tracking information for this branch you can do so with:
+
+        git branch --set-upstream-to=origin/<branch> master
+
+10. git branch --set-upstream-to=origin/master master
+    **branch 'master' set up to track 'origin/master'.**
+
+11. git pull
 
 
 
