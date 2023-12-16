@@ -83,5 +83,7 @@ Steps
 
 11. git pull
 
+12. git switch -c <new branch> **to create new branch on local**
+
 
 
