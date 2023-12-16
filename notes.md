@@ -42,6 +42,24 @@ Steps
 
 14. git branch -d <branch name>
 
+
+
 *******GITHUB*********
 
 1. git remote add origin <repo name> 
+
+2. git add .
+
+3. git commit -m 'message'
+
+4. git push --all
+
+5. Modifying Repo from Github
+    -> Make changes
+    -> Commit
+    -> new branch
+    -> create pull request
+    -> Accept request and merge with master branch
+
+6. 
+
