@@ -85,5 +85,7 @@ Steps
 
 12. git switch -c <new branch> **to create new branch on local**
 
+13. git switch <branch name> **to togle between branches**
+
 
 
