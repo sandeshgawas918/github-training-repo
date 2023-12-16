@@ -61,5 +61,13 @@ Steps
     -> create pull request
     -> Accept request and merge with master branch
 
-6. 
+6. git clone <repo name> **to clone remote repo on local machine**
+
+7. git fetch   **to get all changes**
+
+8. git branch -a **this shows all the present branch**
+
+9. 
+
+
 
