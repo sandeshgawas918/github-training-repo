@@ -87,5 +87,9 @@ Steps
 
 13. git switch <branch name> **to togle between branches**
 
+14. git merge <branch name> **to merge new branch with main branch**
+
+15. git push --all
+
 
 
